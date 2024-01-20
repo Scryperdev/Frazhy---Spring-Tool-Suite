@@ -1,0 +1,13 @@
+package com.telusko.SpringDemo;
+
+public class Alien {
+	
+	public Alien() {
+		System.out.println("Alien Object created ...");
+	}
+	
+	public void code() {
+		System.out.println("Im Coding ...");
+	}
+
+}

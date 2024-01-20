@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\maxre\Documents\springcourse2\.metadata\.plugins\org.eclipse.jdt.core
+2973128652.index
+86046143.index
+3052673165.index
+301771615.index
+1590589652.index
+327930897.index
+1203575857.index
+828422735.index
